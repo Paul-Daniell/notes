@@ -16,12 +16,12 @@ Example Array
 ```
 const items = [
     {name: 'Bike',          price: 100},
-    {name: 'TV',            price: 100},
-    {name: 'Album',         price: 100},
-    {name: 'Book',          price: 100},
-    {name: 'Phone',         price: 100},
-    {name: 'Computer',      price: 100},
-    {name: 'Keyboard',      price: 100},
+    {name: 'TV',            price: 200},
+    {name: 'Album',         price: 50},
+    {name: 'Book',          price: 5},
+    {name: 'Phone',         price: 1000},
+    {name: 'Computer',      price: 1200},
+    {name: 'Keyboard',      price: 500},
 ]
 ```
 
